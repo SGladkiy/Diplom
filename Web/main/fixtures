@@ -1,0 +1,50 @@
+[
+  {
+    "model": "main.course",
+    "pk": 1,
+    "fields": {
+      "name": "1 курс",
+      "order_number": 1
+    }
+  },
+  {
+    "model": "main.course",
+    "pk": 2,
+    "fields": {
+      "name": "2 курс",
+      "order_number": 2
+    }
+  },
+  {
+    "model": "main.course",
+    "pk": 3,
+    "fields": {
+      "name": "3 курс",
+      "order_number": 3
+    }
+  },
+  {
+    "model": "main.course",
+    "pk": 4,
+    "fields": {
+      "name": "4 курс",
+      "order_number": 4
+    }
+  },
+  {
+    "model": "main.course",
+    "pk": 5,
+    "fields": {
+      "name": "5 курс",
+      "order_number": 5
+    }
+  },
+  {
+    "model": "main.course",
+    "pk": 6,
+    "fields": {
+      "name": "6 курс",
+      "order_number": 6
+    }
+  }
+]
